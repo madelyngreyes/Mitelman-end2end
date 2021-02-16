@@ -15,7 +15,7 @@
     "cypress",
     "e2e"
   ],
-  "author": "",
+  "author": "Madelyn Reyes",
   "license": "ISC",
   "dependencies": {
     "cypress": "^4.12.1",
